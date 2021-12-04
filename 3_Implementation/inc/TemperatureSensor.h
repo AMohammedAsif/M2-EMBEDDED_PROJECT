@@ -1,13 +1,4 @@
-/**
- * @file TemperatureSensorADC.h
- * @author Akhil Pulicheri
- * @brief A program for Heat control system.
- * @version 0.1
- * @date 2021-12-01
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 
 #ifndef _TEMPERATURESENSORADC_H_
 #define _TEMPERATURESENSORADC_H_
