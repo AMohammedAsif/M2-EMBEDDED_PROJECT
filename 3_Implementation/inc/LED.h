@@ -1,13 +1,4 @@
-/**
- * @file ButtonSensorHeaterLED.h
- * @author Akhil Pulicheri
- * @brief A program for Heat control system.
- * @version 0.1
- * @date 2021-12-01
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 
 #ifndef _BUTTONSENSORHEATERLED_H_
 #define _BUTTONSENSORHEATERLED_H_
