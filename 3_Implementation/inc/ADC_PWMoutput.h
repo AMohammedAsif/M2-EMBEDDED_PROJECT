@@ -1,13 +1,4 @@
-/**
- * @file ADC_PWMoutput.h
- * @author Akhil Pulicheri
- * @brief A program for Heat control system.
- * @version 0.1
- * @date 2021-12-01
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 
 #ifndef _ADC_PWMOUTPUT_H_
 #define _ADC_PWMOUTPUT_H_
